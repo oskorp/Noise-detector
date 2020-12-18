@@ -13,5 +13,6 @@ A custom-made app is developed that will start recording when the sound goes abo
 6.	Wires
 
 
-
+# Project Partner:
+(Vaibhav Korlekar)[https://github.com/VDK-150202]
 
